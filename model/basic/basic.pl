@@ -4,8 +4,8 @@ extends = /model/basic/hackpage.pl
 @ /utils/std/plrandom.py
 @ /utils/std/plcsv.py
 
-@ /builder/before3.py [builder.py]
-@ /grader/evaluator3.py [grader.py]
+@ /builder/before.py [builder.py]
+@ /grader/evaluator.py [grader.py]
 
 @ /utils/inputfields/basicinput.py
 @ /utils/steps/steps.py
