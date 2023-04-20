@@ -1,5 +1,6 @@
 extends = /model/basic/hackpage.pl
 
+@ /utils/sandboxio.py
 @ /utils/std/plrandom.py
 @ /utils/std/plcsv.py
 
